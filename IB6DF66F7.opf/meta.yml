@@ -1,0 +1,38 @@
+id: IB6DF66F7
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:03:57.286787'
+last_modified: '2022-06-19T04:03:57.286800'
+parser: null
+source_metadata:
+  title: Mang thoss (1523–1596) chronology of the doctrine
+  author: མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2012-09); revision
+    in process, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Dan Martin (Jerusalem) (dm), Gomang Text Input (Kathmandu), Kunga Dorje
+    (kun)
+  - Editorial process:Mathias Fermer (mf), བློ་གསལ་དོན་གྲུབ། (ld)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:བློ་གསལ་དོན་གྲུབ། (ld), Mathias Fermer (mf)
+  - Revisions/Corrections:Chab spel tshe brtan phun tshogs (ed.) (chp), Dan Martin
+    (dm), Kunga Dorje (kun), བློ་གསལ་དོན་གྲུབ། (ld)
+  text_witnesses: https://sakyaresearch.org/sources/71
+  bases:
+    ea1f:
+      title: Mang thoss (1523–1596) chronology of the doctrine
+      order: 1
+      base_file: ea1f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
